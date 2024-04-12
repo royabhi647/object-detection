@@ -11,13 +11,13 @@ This project is a thief detection system built using Next.js, React Webcam, and 
 ## Installation
 - To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
-    - https://github.com/royabhi647/portfolio.git
+    <pre>https://github.com/royabhi647/portfolio.git</pre>
 2. Navigate to the project directory:
-    -  cd thief-detection-project
+    <pre>cd thief-detection-project</pre>
 3. Install dependencies:
-    - npm install
+    <pre>npm install</pre>
 4. Start the development server:
-    - npm run dev
+    <pre>npm run dev</pre>
 5. Open your web browser and go to http://localhost:3000 to view the application.
 
 ## Usage
